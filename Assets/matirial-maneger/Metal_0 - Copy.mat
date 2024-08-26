@@ -40,7 +40,7 @@ Material:
     - _WorkflowMode: 1
     m_Colors:
     - _BaseColor: {r: 0.39215687, g: 0.42352942, b: 0.4627451, a: 1}
-    - _Color: {r: 0.39215687, g: 0.42352942, b: 0.4627451, a: 1}
+    - _Color: {r: 0.39215684, g: 0.4235294, b: 0.462745, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6786630900001301340
 MonoBehaviour:
